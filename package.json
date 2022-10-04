@@ -1,0 +1,25 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "using express",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rihab294/expresscheckpoint.git"
+  },
+  "author": "rihab bettaieb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rihab294/expresscheckpoint/issues"
+  },
+  "homepage": "https://github.com/rihab294/expresscheckpoint#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    text-align: center
+}
+.card {
+    margin: 0 auto;
+
+}
+.d-block {
+    width: auto;
+    height: 540px;
+}
